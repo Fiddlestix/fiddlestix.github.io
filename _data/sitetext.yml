@@ -10,9 +10,10 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
-    title: Howdy
-    text: Test
+  header: 
+    title: Your Dream Guitar
+    titleB: At an Affordable Price
+    text: What is your dream guitar?
     button: Tell Me More
     buttonlink: "#services"
 
