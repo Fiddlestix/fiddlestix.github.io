@@ -15,15 +15,9 @@ en: &DEFAULT_EN
     titleB: At an Affordable Price
     text: What is your dream guitar? We can make it a reality without breaking the bank! Whether it's your signature version of a classic, or something never seen before, we want you to have an instrument that is totaly YOU! 
     textps: P.S. You wont have to wait 4-12 months for it either, we will do our best to have it done in less than 2 weeks.
-    button: Learn More
-    buttonlink: "#about"
-  
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-  
+    button: Tell Me More
+    buttonlink: "#services"
+
   services:
     title: "Services"
     text: "Lorem ipsum"
@@ -76,7 +70,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
- 
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
 
   clients:
     section: clients
@@ -163,3 +161,10 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
