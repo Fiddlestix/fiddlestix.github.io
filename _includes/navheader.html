@@ -59,7 +59,10 @@
 	  {%- if site.data.sitetext[site.locale].header.text -%}
         <div class="intro-heading">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
 	  {%- endif -%}
-	  {%- if site.data.sitetext[site.locale].header.textps -%}
+	  {%- if site.data.sitetext[site.locale].header.textB -%}
+        <div class="intro-headingB">{{ site.data.sitetext[site.locale].header.textB | markdownify }}</div>
+	  {%- endif -%}
+    {%- if site.data.sitetext[site.locale].header.textps -%}
         <div class="intro-ps">{{ site.data.sitetext[site.locale].header.textps | markdownify }}</div>
 	  {%- endif -%}
     {%- if site.data.sitetext[site.locale].header.button -%}
