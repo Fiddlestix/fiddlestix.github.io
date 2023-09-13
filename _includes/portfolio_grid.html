@@ -98,6 +98,7 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext.quackdoctor.text | markdownify }}</h3>
       </div>
     </div>
+    <div class="row">
 	{% for project in site.quackdoctor %}
       <div class="col-md-4 col-sm-6 quackdoctor-item">
         <a class="quackdoctor-link" data-toggle="modal" href="#q{{ forloop.index }}">
