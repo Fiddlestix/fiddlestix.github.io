@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : Anthony Donovan Guitars
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Site description"
-author     : Your Name
+author     : Anthony Donovan
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -31,6 +31,7 @@ analytics:
 
 collections:
   portfolio:
+  quackdoctor:
 
 markdown: kramdown
 
