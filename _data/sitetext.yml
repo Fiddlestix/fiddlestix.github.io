@@ -41,10 +41,16 @@ en: &DEFAULT_EN
         desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
         icon: fas fa-laptop
   portfolio:
-    title: "Quack Doctor"
+    title: "OKAY"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
+  quackdoctor:
+    title: "Quack Doctor"
+    text: "Not OK"
+    section: quackdoctor
+    closebutton: "Close... Yeah!!!!!"
+
 
   timeline:
     title: "Ordering Process"
