@@ -180,7 +180,7 @@
 // Styling for the quackdoctor section
 #quackdoctor {
   .quackdoctor-item {
-    right: 0;
+    right:0;
     margin: 0 0 15px;
     .quackdoctor-link {
       position: relative;
@@ -258,7 +258,7 @@
     padding: 100px 0;
     text-align: center;
     h2 {
-      font-size: 8em;
+      font-size: 2em;
       margin-bottom: 15px;
     }
     p {
@@ -269,13 +269,7 @@
       font-style: italic;
       margin: 20px 0 30px;
       @include serif-font;
-    }
-    ul.list-inline {
-      margin-top: 0;
-      margin-bottom: 30px;
-    }
-    img {
-      margin-bottom: 30px;
+    
     }
     button {
       cursor: pointer;

@@ -3,10 +3,10 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("#{$header-image}");
+  background-size:cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+  background-position: 15% 25%;
   .intro-text {
     padding-top: 150px;
     padding-bottom: 100px;
