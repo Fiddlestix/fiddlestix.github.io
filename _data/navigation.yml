@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Portfolio"
+    - title: "Okay"
       section: portfolio
     - title: "Contact"
       section: contact
