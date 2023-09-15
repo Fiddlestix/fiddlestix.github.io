@@ -47,8 +47,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
   
   quackdoctor:
-    title: "Quack Doctor"
-    text: "Not OK"
+    title: Terms
     section: quackdoctor
     closebutton: "Close"
 
