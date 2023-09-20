@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Ordering Process"
       section: timeline
-    - title: "Team"
-      section: team
+    # - title: "Team"
+      # section: team
     - title: "Okay"
       section: portfolio
     - title: "Contact"

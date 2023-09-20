@@ -1,17 +1,17 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Yee Haw
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Walnut/Maple T-style
+  subtitle: This is the guitar that started this!
+  thumbnail: "assets/img/portfolio/Anthony T.jpg"
   
 #what displays when the item is clicked:
-title: Oh No!!!
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Walnut/Maple T-style
+subtitle: This is the guitar that started this!
+image: "assets/img/portfolio/Anthony T.jpg" #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Use this area to describe your **project**. **Markdown** supported.
 
 optional info list (delete if not using):
 

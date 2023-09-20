@@ -40,11 +40,12 @@ en: &DEFAULT_EN
       - title: "Other Ideas? $-$$$"
         desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
         icon: fas fa-laptop
+  
   portfolio:
-    title: "OKAY"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Past Projects"
+    text: "Here are some examples of guitars I've made."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
   
   quackdoctor:
     title: Terms
@@ -88,60 +89,6 @@ en: &DEFAULT_EN
     text: "Howdy, I'm Anthony Donovan"
     body: "I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too."
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
@@ -173,3 +120,56 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
+# team:
+    # title: "OUR AMAZING TEAM"
+    # text: "Lorem ipsum dolor sit amet consectetur."
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    # section: team
+    # people:
+    #   - name: "Kay Garland"
+    #     role: "Lead Designer"
+    #     image: assets/img/team/500x500.jpg
+    #     social:
+    #       - url: https://twitter.com
+    #         icon: fab fa-twitter
+    #       - url: https://facebook.com
+    #         icon: fab fa-facebook-f
+    #       - url: https://linkedin.com
+    #         icon: fab fa-linkedin-in
+    #   - name: "Larry Parker"
+    #     role: "Lead Marketer"
+    #     image: assets/img/team/2.jpg
+    #     social:
+    #       - url: https://twitter.com
+    #         icon: fab fa-twitter
+    #       - url: https://facebook.com
+    #         icon: fab fa-facebook-f
+    #       - url: https://linkedin.com
+    #         icon: fab fa-linkedin-in
+    #   - name: "Diana Perterson"
+    #     role: "Lead Developer"
+    #     image: assets/img/team/500x500.jpg
+    #     social:
+    #       - url: https://twitter.com
+    #         icon: fab fa-twitter
+    #       - url: https://facebook.com
+    #         icon: fab fa-facebook-f
+    #       - url: https://linkedin.com
+    #         icon: fab fa-linkedin-in
+    # clients:
+    # section: clients
+    # max-height: 100px
+    # horizontal-scrolling: "yes" #"yes/no"
+    # list:
+    #   - title: "envato"
+    #     url: https://github.com/raviriley/agency-jekyll-theme
+    #     logo: assets/img/clients/envato.jpg
+    #   - title: "designmodo"
+    #     url: https://github.com/raviriley/agency-jekyll-theme
+    #     logo: assets/img/clients/designmodo.jpg
+    #   - title: "themeforest"
+    #     url: https://github.com/raviriley/agency-jekyll-theme
+    #     logo: assets/img/clients/themeforest.jpg
+    #   - title: "Creative Market"
+    #     url: https://github.com/raviriley/agency-jekyll-theme
+    #     logo: assets/img/clients/creative-market.jpg
