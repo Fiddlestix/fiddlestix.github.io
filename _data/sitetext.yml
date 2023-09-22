@@ -58,22 +58,22 @@ en: &DEFAULT_EN
       - title: "Dream"
         year: "Step 1"
         desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature burned in the back of the head or would it have 3 necks, 11 pickups and a built in overdrive pedal? What would you just love to play?"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/OP/GT.jpg
         alt:
       - title: "We Draft a Design"
         year: "Step 2"
         desc: "Tell us your dream design and we'll draft a design. We won't move on with production untill the draft look just how you want it. Want just the body? just skip step 3."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/OP/G1.jpg
         alt:
       - title: "Choose Neck, Pickups, and Accessories"
         year: "Step 3"
         desc: "This can be as involved,(or not), as you want. Want a brand name neck with specific pickups? Or maybe you want something cheap that will get the job done, we’ll work with whatever you want."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/OP/G2.JPG
         alt: image alt text
       - title: "We Make and Assemble Your Instrument"
         year: "Step 4"
         desc: "We will try to ship your guitar in less than 2 weeks. But if you want your tone knobs from Timbuktu it might take a little longer, (we will do our best to communicate that ahead of time).<br>If it's delayed longer than we said we will give you 5% off."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/OP/TP.jpg
         alt:
         # you can enforce the alignment
         align: right
