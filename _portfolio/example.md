@@ -8,15 +8,13 @@ caption: #what displays in the portfolio grid:
 title: Walnut/Maple T-style
 subtitle: This is the guitar that started this!
 image: "assets/img/portfolio/Anthony T.jpg" #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Unable to Load Picture :(
 
 ---
-Use this area to describe your **project**. **Markdown** supported.
+Walnut Maple Sandwich Body, Maple inlay, Maple Neck, Dawgtown Tele Pickups.
 
-optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Made: February 2023 
+- Owner: Anthony Donovan
 

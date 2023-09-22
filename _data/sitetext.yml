@@ -41,11 +41,6 @@ en: &DEFAULT_EN
         desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
         icon: fas fa-laptop
   
-  portfolio:
-    title: "Past Projects"
-    text: "Here are some examples of guitars I've made."
-    section: portfolio
-    closebutton: "Close"
   
   quackdoctor:
     title: Terms
@@ -89,10 +84,15 @@ en: &DEFAULT_EN
     text: "Howdy, I'm Anthony Donovan"
     body: "I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too."
 
+  portfolio:
+    title: "Past Builds"
+    text: "Here are some examples of guitars I've made."
+    section: portfolio
+    closebutton: "Close"
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    text: "Want to get in touch?<br> Call me at +1(715)530-2104"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
