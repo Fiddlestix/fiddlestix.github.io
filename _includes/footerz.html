@@ -37,21 +37,21 @@
           {% endfor %}
         </ul>
       </div>
-    </div>
+    {% endif %}
   </div>
 </footer>
 {% if page.layout == "page" %}
-<script>
-  fixPageShort();
-  function fixPageShort() {
-    if (window.innerHeight > document.body.offsetHeight) {
-      document.getElementById("footer").style.position = "fixed";
-      document.getElementById("footer").style.bottom = 0;
-      document.getElementById("footer").style.right = 0;
-      document.getElementById("footer").style.left = 0;
-      document.getElementById("footer").style.width = "100%";
+  <script>
+    fixPageShort();
+    function fixPageShort() {
+      if (window.innerHeight > document.body.offsetHeight) {
+        document.getElementById("footer").style.position = "fixed";
+        document.getElementById("footer").style.bottom = 0;
+        document.getElementById("footer").style.right = 0;
+        document.getElementById("footer").style.left = 0;
+        document.getElementById("footer").style.width = "100%";
+      }
     }
-  }
-</script>
+  </script>
 {% endif %}
 <!-- End Footerz -->
