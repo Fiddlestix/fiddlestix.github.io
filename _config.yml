@@ -16,13 +16,13 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Anthony Donovan
+title      : Anthony Donovan Guitars
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Site description"
-author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+author     : Anthony Donovan
+logo:     #optional, defaults to site title
+  path: assets\img\adg.png
+  height: 100 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -31,6 +31,7 @@ analytics:
 
 collections:
   portfolio:
+  quackdoctor:
 
 markdown: kramdown
 
