@@ -5,6 +5,7 @@
 
 #Image Customization
 header-image: "../img/t1.jpg"
+header-image-mobile: "../img/Like/AD.jpeg"
 contact-image: "../img/adg.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
