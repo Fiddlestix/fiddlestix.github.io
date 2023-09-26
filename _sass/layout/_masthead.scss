@@ -3,8 +3,9 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("#{$header-image-mobile}");
+  background-position: center;
   width: 100vw;
-  height: 100vh;
+  height: 150vh;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
