@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - title: "Dream"
         year: "Step 1"
         desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature burned in the back of the head or would it have 3 necks, 11 pickups and a built in overdrive pedal? What would you just love to play?"
-        image: assets/img/op/gt.jpg
+        image: assets/img/op/tractortele.jpg
         alt:
       - title: "We Draft a Design"
         year: "Step 2"
@@ -73,7 +73,7 @@ en: &DEFAULT_EN
       - title: "We Make and Assemble Your Instrument"
         year: "Step 4"
         desc: "We will try to ship your guitar in less than 2 weeks. But if you want your tone knobs from Timbuktu it might take a little longer, (we will do our best to communicate that ahead of time).<br>If it's delayed longer than we said we will give you 5% off."
-        image: assets/img/op/tp.jpg
+        image: assets/img/op/tractorp.jpg
         alt:
         # you can enforce the alignment
         align: right
