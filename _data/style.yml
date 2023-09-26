@@ -5,7 +5,7 @@
 
 #Image Customization
 header-image: "../img/tele.jpg"
-header-image-mobile: "../img/ap.jpg"
+header-image-mobile: "../img/yeehaw.jpg"
 contact-image: "../img/adg.png"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
