@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Walnut/Maple T-style
   subtitle: This is the guitar that started this!
-  thumbnail: "assets/img/portfolio/Anthony T.jpg"
+  thumbnail: "assets/img/portfolio/anthonyt.jpg"
   
 #what displays when the item is clicked:
 title: Walnut/Maple T-style
 subtitle: This is the guitar that started this!
-image: "assets/img/portfolio/Anthony T.jpg" #main image, can be a link or a file in assets/img/portfolio
+image: "assets/img/portfolio/anthonyt.jpg" #main image, can be a link or a file in assets/img/portfolio
 alt: Unable to Load Picture :(
 
 ---
