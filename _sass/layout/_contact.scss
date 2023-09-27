@@ -2,11 +2,14 @@
 section#contact {
   background-color: $gray-900;
   background-image: url("#{$contact-image}");
-  background-size: 33%;
+  background-size: cover;
   background-repeat: repeat;
   background-position: center;
   .section-heading {
     color: $white;
+  }
+  .section-subheading {
+    color:white
   }
   .form-group {
     margin-bottom: 25px;
