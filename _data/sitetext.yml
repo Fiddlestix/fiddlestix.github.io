@@ -21,30 +21,30 @@ en: &DEFAULT_EN
 
   services:
     title: "Series"
-    text: "Here are our four product lines"
+    text: "Here are our product lines"
     section: services
     list:
       - title: "Personal Series $"
         desc: "This is our basic series, for musicians who want a very affordable custom guitar. We put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so we will work with you to only put money into the parts that matter to you."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Signature Series $$"
         desc: "This is our main series, for musicians who want a great, playable, affordable, custom guitar. We take brand new parts and make a guitar with a highly personalized body. We will help you pick out everything, and then we will build and assemble it just how you want it. And just like the personal series, we will work with you to put your money exactly where you want it, so that you can make every penny count."
-        icon: fas fa-laptop
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Touring Series $$$"
         desc: "This is our premium line, for professional musicians who want a high quality personal instrument. We will work with experienced local luthiers to make exactly the guitar you want. This is for anyone who wants a top of the line guitar that will turn heads on stage or in the studio."
         # Do this **for bold** font
-        icon: fab fa-markdown
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Custom Bodies $"
         desc: "Want to build your own guitar? We can sell you just the highly personalized custom body for your dream guitar. Also we can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
-        icon: fas fa-shopping-cart
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Other Ideas? $-$$$"
         desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
-        icon: fas fa-laptop
+        image: "../assets/img/op/tractortele.jpg"
 
 
   quackdoctor:
-    title: Terms
-    section: quackdoctor
+    title: Terms and Conditions
+    ptitle: Terms of Sale
     closebutton: "Close"
 
 
@@ -82,17 +82,10 @@ en: &DEFAULT_EN
   about: 
     title: "About"
     text: "Howdy, I'm Anthony Donovan"
-    body: "I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too."
-    lista:
-      - title: "Test 1"
-        desc: "This is our basic series, for musicians who want a very affordable custom guitar. We put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so we will work with you to only put money into the parts that matter to you."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-    listb:
-      - title: "Test 2"
-        desc: "This is our main series, for musicians who want a great, playable, affordable, custom guitar. We take brand new parts and make a guitar with a highly personalized body. We will help you pick out everything, and then we will build and assemble it just how you want it. And just like the personal series, we will work with you to put your money exactly where you want it, so that you can make every penny count."
-        icon: fas fa-laptop
-        image: assets/img/op/tractorp.jpg
-      
+    body: 
+    image: "../assets/img/hi.jpg"
+    desc: I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too.
+  
   portfolio:
     title: "Past Builds"
     text: "Here are some examples of guitars I've made."

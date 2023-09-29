@@ -1,11 +1,11 @@
 #Color Customization
-highlight: "rgb(16, 6, 234,.7)"
+highlight: "rgb(212, 4, 25,.9)"
 #white: "#FF0000"
 #black: "#000"
 
 #Image Customization
 header-image: "../img/tele.jpg"
-header-image-mobile: "../img/okay.jpg"
+header-image-mobile: "../img/mobileheader.jpg"
 contact-image: "../img/contactbackground.jpg"
 
 #Font Awesome icon for portfolio grid when an item is hovered over

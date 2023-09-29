@@ -8,26 +8,16 @@
       </div>
     </div>
     <!-- Begin Experiment -->
-     <div class="row text-center">
-    {% for quack in site.data.sitetext[site.locale].about.lista %}
-        <div class="col-lg-4">
-          <h4 class="quack-heading">{{ quack.title | markdownify }}</h4>
-          {% if quack.desc %}<div class="quack2">{{ quack.desc | markdownify }}</div>{% endif %}
-        </div>
-    {% endfor %}
-    {% for quack in site.data.sitetext[site.locale].about.listb %}
-        <div class="col-lg-8">
-          <h4 class="quack-heading">{{ quack.title | markdownify }}</h4>
-          {% if quack.desc %}<div class="text-muted">{{ quack.desc | markdownify }}</div>{% endif %}
-        </div>
-    {% endfor %}
+     <div class="row">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-4">
+        <img class="about-image" src={{ site.data.sitetext[site.locale].about.image }} alt="Yeahaw">
+      </div>
+      <div class="col-lg-1"></div>
+      <div class="col-lg-6 text-muted text-center">{{ site.data.sitetext[site.locale].about.desc }}</div>
       </div>
    <!-- End Experiment -->
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
-      </div>
-    </div>
+  
   </div>
 </section>
 <!-- End About -->
