@@ -6,7 +6,7 @@ caption:
   
 #what displays when the item is clicked:
 title: Payment
-subtitle: A 20% downpayment is reqired before I can start production. The rest is due at before the guitar leavess the shop. If you want to change the design after I begin production there will be an extra fee charged, based on where I am in the production process.
+subtitle: A 20% downpayment is reqired before I can start production. The rest is due at before the guitar leaves the shop. If you want to change the design after I begin production there will be an extra fee charged, based on where I am in the production process.
 titleb: Return Policy
 subtitleb: As a general rule I can't accept returns although in some situations I would buy back an instument at a discounted rate.
 titlec: Warranty

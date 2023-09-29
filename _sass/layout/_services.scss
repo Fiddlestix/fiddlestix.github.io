@@ -3,3 +3,14 @@
   margin: 15px 0;
   text-transform: none;
 }
+.service-image {
+  position: relative;
+  z-index: 100;
+  width: 12em;
+  height: 12em;
+  color: $white;
+  border: .4em solid $primary;
+  border-radius: 5%;
+  background-color: $primary;
+
+}

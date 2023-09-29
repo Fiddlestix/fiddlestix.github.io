@@ -17,8 +17,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Anthony Donovan Guitars
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+email      : anthony@anthonysguitars.com #this is also the email contact forms will go to
+description: "Custom Electric Guitar Bodies"
 author     : Anthony Donovan
 logo:     #optional, defaults to site title
   path: assets\img\adg.png

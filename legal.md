@@ -37,3 +37,14 @@ We may update this privacy policy from time to time for personal, operational, l
 **CONTACT US**
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+<br>
+<div class="container">
+  <div class="row">
+      <a class="quackdoctor-link" data-toggle="modal" href="#q1">
+       <div class="text-uppercase">{{ site.data.sitetext[site.locale].quackdoctor.ptitle | default: "Terms and Conditions" }}</div>
+      </a>
+  </div>
+</div>
+{% include qmodals.html %}
+<br>

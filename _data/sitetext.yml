@@ -2,8 +2,7 @@
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
+# Do this **for bold** font
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
@@ -21,31 +20,33 @@ en: &DEFAULT_EN
 
   services:
     title: "Series"
-    text: "Here are our four product lines"
+    text: "Here are our product lines"
     section: services
     list:
       - title: "Personal Series $"
         desc: "This is our basic series, for musicians who want a very affordable custom guitar. We put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so we will work with you to only put money into the parts that matter to you."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Signature Series $$"
         desc: "This is our main series, for musicians who want a great, playable, affordable, custom guitar. We take brand new parts and make a guitar with a highly personalized body. We will help you pick out everything, and then we will build and assemble it just how you want it. And just like the personal series, we will work with you to put your money exactly where you want it, so that you can make every penny count."
-        icon: fas fa-laptop
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Touring Series $$$"
         desc: "This is our premium line, for professional musicians who want a high quality personal instrument. We will work with experienced local luthiers to make exactly the guitar you want. This is for anyone who wants a top of the line guitar that will turn heads on stage or in the studio."
-        # Do this **for bold** font
-        icon: fab fa-markdown
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Custom Bodies $"
         desc: "Want to build your own guitar? We can sell you just the highly personalized custom body for your dream guitar. Also we can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
-        icon: fas fa-shopping-cart
+        image: "../assets/img/op/tractortele.jpg"
       - title: "Other Ideas? $-$$$"
         desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
-        icon: fas fa-laptop
+        image: "../assets/img/op/ga.jpg"
 
-
-  quackdoctor:
-    title: Terms
-    section: quackdoctor
-    closebutton: "Close"
+  about: 
+    title: "About"
+    text: "Howdy, I'm Anthony Donovan"
+    body: 
+    image: "../assets/img/hi.jpg"
+    desc: I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too.
+  
+  
 
 
   timeline:
@@ -69,7 +70,7 @@ en: &DEFAULT_EN
         year: "Step 3"
         desc: "This can be as involved,(or not), as you want. Want a brand name neck with specific pickups? Or maybe you want something cheap that will get the job done, we’ll work with whatever you want."
         image: assets/img/op/gb.jpg
-        alt: image alt text
+        alt: 
       - title: "We Make and Assemble Your Instrument"
         year: "Step 4"
         desc: "We will try to ship your guitar in less than 2 weeks. But if you want your tone knobs from Timbuktu it might take a little longer, (we will do our best to communicate that ahead of time).<br>If it's delayed longer than we said we will give you 5% off."
@@ -79,10 +80,10 @@ en: &DEFAULT_EN
         align: right
     end: "Play <br> Your Heart <br> Out!"
 
-  about:
-    title: "About"
-    text: "Howdy, I'm Anthony Donovan"
-    body: "I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too."
+  quackdoctor:
+    title: Terms and Conditions
+    ptitle: Terms of Sale
+    closebutton: "Close"
 
   portfolio:
     title: "Past Builds"
@@ -92,21 +93,18 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact"
-    text: "Want to get in touch?<br> Call me at +1(715)530-2104"
+    text: "Want to get in touch?<br> Shoot me an email or give me a call, I'd love to chat!<br> Phone (text or call): +1(715)530-2104 <br> Email: anthony@anthonysguitars.com"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
-
+    
   footer:
     legal: "Privacy Policy"
+  
+  
+  # Don't Delete
+en-US:
+  <<: *DEFAULT_EN
+  
+  
   #   social:
   #     - url: https://twitter.com
   #       icon: "fab fa-twitter"
@@ -118,8 +116,7 @@ en: &DEFAULT_EN
   #       icon: "fab fa-github"
   #     - url: https://instagram.com
   #       icon: "fab fa-instagram"
-en-US:
-  <<: *DEFAULT_EN
+
 # team:
     # title: "OUR AMAZING TEAM"
     # text: "Lorem ipsum dolor sit amet consectetur."
