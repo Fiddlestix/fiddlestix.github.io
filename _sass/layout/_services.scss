@@ -6,13 +6,11 @@
 .service-image {
   position: relative;
   z-index: 100;
-  left: 0;
-  width: 80px;
-  height: 80px;
-  margin-left: 0;
+  width: 12em;
+  height: 12em;
   color: $white;
-  border: 7px solid $gray-200;
-  border-radius: 100%;
+  border: .4em solid $primary;
+  border-radius: 5%;
   background-color: $primary;
 
 }
