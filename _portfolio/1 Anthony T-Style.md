@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Walnut/Maple T-style
+  title: Walnut/Maple T-Style
   subtitle: This is the guitar that started this!
   thumbnail: "assets/img/portfolio/anthonyt.jpg"
   
