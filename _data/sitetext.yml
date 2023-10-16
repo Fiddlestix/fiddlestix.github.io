@@ -12,78 +12,80 @@ en: &DEFAULT_EN
   header:
     title: Anthony Donovan Guitars
     titleB: Personalized Guitars at an Affordable Price
-    text: What is your dream guitar? <br> We can make it a reality without breaking the bank! Whether it's your signature version of a classic, or something never seen before, we want you to have an instrument that is totaly YOU!
-    textB: Our goal is to make a high quality, highly personalized body and match that with whatever neck and pickups YOU want. (We’re here for you if you need help deciding). Or for the DIYers out there who want to build it themselves, we can help with that too. All of our work is proudly done right here in Wisconsin.
-    textps: P.S. You wont have to wait 4-12 months for it either, we will do our best to have it done in less than 2 weeks for personal or signature series insruments.
+    text: I make electric guitars custom taylored to individual musicians.<br>I'll work with any budget to make sure you get the guitar you've always wanted. I can also make just the body if you want to do your own build.
+    textps: 
     button: Learn More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
-  services:
-    title: "Series"
-    text: "Here are our product lines"
-    section: services
-    list:
-      - title: "Personal Series $"
-        desc: "This is our basic series, for musicians who want a very affordable custom guitar. We put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so we will work with you to only put money into the parts that matter to you."
-        image: "assets/img/portfolio/anthonyt copy.jpg"
-      - title: "Signature Series $$"
-        desc: "This is our main series, for musicians who want a great, playable, affordable, custom guitar. We take brand new parts and make a guitar with a highly personalized body. We will help you pick out everything, and then we will build and assemble it just how you want it. And just like the personal series, we will work with you to put your money exactly where you want it, so that you can make every penny count."
-        image: "assets/img/op/tractorp.jpg"
-      - title: "Touring Series $$$"
-        desc: "This is our premium line, for professional musicians who want a high quality personal instrument. We will work with experienced local luthiers to make exactly the guitar you want. This is for anyone who wants a top of the line guitar that will turn heads on stage or in the studio."
-        image: "assets/img/op/ga.jpg"
-      - title: "Custom Bodies $"
-        desc: "Want to build your own guitar? We can sell you just the highly personalized custom body for your dream guitar. Also we can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
-        image: "../assets/img/morgan.jpg"
-      - title: "Other Ideas? $-$$$"
-        desc: "Have something totally different that you want to try? Let us know and we’d love to see what we can do for you!"
-        image: "../assets/img/op/tractortele.jpg"
+  
 
   about: 
     title: "About"
     text: "Howdy, I'm Anthony Donovan"
     body: 
     image: "../assets/img/hi.jpg"
-    desc: I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make other musicians’ dream guitars a reality too.
+    desc: I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make give other musicians a chance to own an afordable custom instrument.
   
   
 
 
   timeline:
     title: "Ordering Process"
-    text: "Here's how we rock"
+    text: "If you want a custom guitar here's how it would work"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Dream"
         year: "Step 1"
-        desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature burned in the back of the head or would it have 3 necks, 11 pickups and a built in overdrive pedal? What would you just love to play?"
-        image: assets/img/op/tractortele.jpg
+        desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature on the head or would it have 3 necks, 11 pickups and a built in overdrive pedal? Since I do everything on a small scale I can make it exactly how you want it."
+        image: assets/img/op/fun.jpg
         alt:
-      - title: "We Draft a Design"
+      - title: "I'll Draft a Design"
         year: "Step 2"
-        desc: "Tell us your dream design and we'll draft a design. We won't move on with production untill the draft look just how you want it. Want just the body? just skip step 3."
-        image: assets/img/op/ga.jpg
+        desc: "I won't move on with production until the draft looks just how you want it. Want just the body? just skip step 3."
+        image: assets/img/op/design.jpg
         alt:
       - title: "Choose Neck, Pickups, and Accessories"
         year: "Step 3"
-        desc: "This can be as involved,(or not), as you want. Want a brand name neck with specific pickups? Or maybe you want something cheap that will get the job done, we’ll work with whatever you want."
+        desc: "This can be as involved, (or not), as you want. Do you want a top end neck with specific pickups? Or just something cheap that will get the job done, I’ll work with whatever you want."
         image: assets/img/op/gb.jpg
         alt: 
-      - title: "We Make and Assemble Your Instrument"
+      - title: "I Make and Assemble Your Instrument"
         year: "Step 4"
-        desc: "We will try to ship your guitar in less than 2 weeks. But if you want your tone knobs from Timbuktu it might take a little longer, (we will do our best to communicate that ahead of time).<br>If it's delayed longer than we said we will give you 5% off."
-        image: assets/img/op/tractorp.jpg
+        desc: "I will try to ship your guitar within 3 weeks of your order. But if you want your tone knobs from Timbuktu it might take a little longer, (I will do our best to communicate that ahead of time).<br>If it's delayed longer than I said I will give you 5% off."
+        image: assets/img/op/sanding.jpg
         alt:
         # you can enforce the alignment
         align: right
     end: "Play <br> Your Heart <br> Out!"
-
+    
+  
   quackdoctor:
     title: Terms and Conditions
     ptitle: Terms of Sale
     closebutton: "Close"
+  
+  services:
+    title: "Series"
+    text: "Here is a rough idea of the different levels/prices that you have for options"
+    section: services
+    list:
+      - title: "Personal Series $"
+        desc: "This is our basic series, for musicians who want a very affordable custom guitar. We put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so I will work with you to only put money into the parts that matter to you."
+        image: "assets/img/portfolio/anthonyt copy.jpg"
+      - title: "Signature Series $$"
+        desc: "This is our main series, for musicians who want a great, playable, affordable, custom guitar. I take brand new parts and make a guitar with a highly personalized body. I will help you pick out everything, and then I will build and assemble it just how you want it. And just like the personal series, I will work with you to put your money exactly where you want it, so that you can make every penny count."
+        image: "assets/img/op/tractorp.jpg"
+      - title: "Touring Series $$$"
+        desc: "This is our premium line, for professional musicians who want a high quality personal instrument. I will work with experienced local luthiers to make exactly the guitar you want. This is for anyone who wants a top of the line guitar that will turn heads on stage or in the studio."
+        image: "assets/img/op/ga.jpg"
+      - title: "Custom Bodies $"
+        desc: "Want to build your own guitar? I can sell you just the highly personalized custom body for your dream guitar. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
+        image: "../assets/img/morgan.jpg"
+      - title: "Other Ideas? $-$$$"
+        desc: "Have something totally different that you want to try? Let us know and I’d love to see what I can do for you!"
+        image: "../assets/img/op/tractortele.jpg"
 
   portfolio:
     title: "Past Builds"

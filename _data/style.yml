@@ -5,7 +5,7 @@ highlight: "rgb(212, 4, 25,.9)"
 
 #Image Customization
 header-image: "../img/tele.jpg"
-header-image-mobile: "../img/mobileheader.jpg"
+header-image-mobile: "../img/playing.jpg"
 contact-image: "../img/contactbackground.jpg"
 
 #Font Awesome icon for portfolio grid when an item is hovered over

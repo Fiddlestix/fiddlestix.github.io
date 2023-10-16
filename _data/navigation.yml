@@ -7,14 +7,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Series"
-      section: services
     - title: "About"
       section: about
     - title: "Ordering Process"
       section: timeline
     # - title: "Team"
       # section: team
+    - title: "Series"
+      section: services
     - title: "Past Builds"
       section: portfolio
     - title: "Contact"
