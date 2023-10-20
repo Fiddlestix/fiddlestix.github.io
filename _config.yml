@@ -21,7 +21,7 @@ email      : anthony@anthonysguitars.com #this is also the email contact forms w
 description: "Custom Electric Guitar Bodies"
 author     : Anthony Donovan
 logo:     #optional, defaults to site title
-  path: assets\img\adg.png
+  path: assets\img\logo.png
   height: 100 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
