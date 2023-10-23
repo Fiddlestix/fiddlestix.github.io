@@ -12,7 +12,7 @@ en: &DEFAULT_EN
   header:
     title: Anthony Donovan Guitars
     titleB: Personalized Guitars at an Affordable Price
-    text: I make electric guitars custom taylored to individual musicians.<br>I'll work with any budget to make sure you get the guitar you've always wanted. I can also make just the body if you want to do your own build.
+    text: I make electric guitars custom tailored to individual musicians.<br>I'll work with any budget to make sure you get the guitar you've always wanted. I can also make just the body if you want to do your own build.
     textps: 
     button: Learn More
     buttonlink: "#about"
@@ -24,21 +24,21 @@ en: &DEFAULT_EN
     text: "Howdy, I'm Anthony Donovan"
     body: 
     image: "../assets/img/hi.jpg"
-    desc: I’ve always been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make give other musicians a chance to own an afordable custom instrument.
+    desc: I’ve been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to make give other musicians a chance to own an affordable custom instrument.
   
   
 
 
   timeline:
     title: "Ordering Process"
-    text: "If you want a custom guitar here's how it would work"
+    text: "If you want a custom guitar here's how it would work:"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Dream"
         year: "Step 1"
-        desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature on the head or would it have 3 necks, 11 pickups and a built in overdrive pedal? Since I do everything on a small scale I can make it exactly how you want it."
+        desc: "What would be your ideal guitar? Would it have the look of a classic or would it be totally unique? Would it have just your signature on the head or would it have 3 necks, 11 pickups, and a built in overdrive pedal? Since I do everything on a small scale I can make it exactly how you want it."
         image: assets/img/op/fun.jpg
         alt:
       - title: "I'll Draft a Design"
@@ -72,13 +72,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Personal Series $"
-        desc: "This is my basic option, for musicians who want a very affordable custom guitar. I'll put a highly personalized body with some parts off a used guitar to make an affordable guitar with a highly personalized look. This series is all about budget so I will work with you to only put money into the parts that matter to you."
+        desc: "This is my basic option, for musicians who want a very affordable custom guitar. I'll put a personalized body with some parts off a used guitar to make an affordable guitar with a personalized look. This series is all about budget so I will work with you to only put money into the parts that matter to you."
         image: "assets/img/portfolio/anthonyt copy.jpg"
       - title: "Signature Series $$"
         desc: "This is the option I would recomend for musicians who want a high quality, playable, affordable, custom guitar. I take your choice of brand new parts and make a guitar with a highly personalized body. And just like the personal series, I will work with you to put your money exactly where you want it, so that you can make every penny count."
         image: "assets/img/op/tractorp.jpg"
       - title: "Touring Series $$$"
-        desc: "This is my premium line, for professional musicians who want a top of the line personal instrument. I can go as in depth as you want to get the perfect instrument for satge or studio."
+        desc: "This is my premium line, for professional musicians who want a top of the line personal instrument. I can go as in depth as you want to get the perfect instrument for stage or studio."
         image: "assets/img/op/ga.jpg"
       - title: "Custom Bodies $"
         desc: "Want to build your own guitar? I can sell you just the highly personalized custom body. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
