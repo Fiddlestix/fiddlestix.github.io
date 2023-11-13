@@ -12,6 +12,9 @@
     @include heading-font;
   }
   .navbar-brand {
+    .logo-size{
+      max-height: 5em;
+    }
     color: $primary;
     @include script-font;
     &.active,
@@ -49,6 +52,9 @@
     background-color: transparent;
     .navbar-brand {
       font-size: 1.75em;
+      .logo-size{
+        max-height: 7em;  
+      }
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
@@ -66,7 +72,10 @@
       background-color: $grayaccent;
       .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0;
+        padding: 12,0;
+        .logo-size{
+          max-height: 5em;
+        }
       }
     }
   }

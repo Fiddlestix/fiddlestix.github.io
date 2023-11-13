@@ -22,7 +22,7 @@ description: "Custom Electric Guitar Bodies"
 author     : Anthony Donovan
 logo:     #optional, defaults to site title
   path: assets\img\logo 2.2.png
-  height: 125 #height in px, defaults to 52px
+
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
