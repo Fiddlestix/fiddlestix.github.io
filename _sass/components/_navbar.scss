@@ -12,6 +12,9 @@
     @include heading-font;
   }
   .navbar-brand {
+    .logo-size{
+      max-height: 5em;
+    }
     color: $primary;
     @include script-font;
     &.active,
@@ -47,8 +50,12 @@
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     background-color: transparent;
+    // background-color: $grayaccent;
     .navbar-brand {
       font-size: 1.75em;
+      .logo-size{
+        max-height: 7em;  
+      }
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
@@ -66,7 +73,64 @@
       background-color: $grayaccent;
       .navbar-brand {
         font-size: 1.25em;
-        padding: 12px 0;
+        padding: 12,0;
+        .logo-size{
+          max-height: 5em;
+        }
+      }
+    }
+    .nav{
+      padding-top: 0;
+      padding-bottom: 0;
+      background-color: $grayaccent;
+      .navbar-brand {
+        font-size: 1.25em;
+        padding: 12,0;
+        .logo-size{
+          max-height: 5em;
+        }
+      }
+    }
+  }
+}
+#otherNav {
+  background-color: $grayaccent;
+  .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: white;
+    border: 0;
+    background-color: $primary;
+    @include heading-font;
+  }
+  .navbar-brand {
+    .logo-size{
+      max-height: 5em;
+    }
+    color: $primary;
+    @include script-font;
+    &.active,
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($primary, 10%);
+    }
+  }
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        font-size: 90%;
+        font-weight: 400;
+        padding: 1em ;
+        letter-spacing: 1px;
+        color: white;
+        @include heading-font;
+        &.active,
+        &:hover {
+          color: $primary;
+        }
       }
     }
   }
