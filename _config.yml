@@ -22,7 +22,6 @@ description: "Custom Electric Guitar Bodies"
 author     : Anthony Donovan
 logo:     #optional, defaults to site title
   path: assets\img\logo 2.2.png
-  size: 175
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
