@@ -11,6 +11,12 @@ section#contact {
     color: $white;
   }
   .section-subheading {
-    color:white; 
+    color:white;
+    a {
+      color: white;
+      &:hover {
+        color: darken($primary, 10%);
+      }
+    }
   }
 }
