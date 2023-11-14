@@ -6,10 +6,11 @@ section#contact {
   background-position-x: center;
   background-size: cover; 
   background-repeat: no-repeat;
+  color: white !important;
   .section-heading {
     color: $white;
   }
   .section-subheading {
-    color:white
+    color:white !important; 
   }
 }
