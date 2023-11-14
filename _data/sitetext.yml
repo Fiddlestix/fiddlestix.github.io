@@ -95,7 +95,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact"
-    text: "Want to get in touch?<br> Shoot me an email or give me a call, I'd love to chat!<br> Phone (text or call): (715)530-2104 <br> Email: anthony@anthonysguitars.com"
+    text: "Want to get in touch?<br> Shoot me an email or give me a call, I'd love to chat!<br> Phone (text or call): <a href=tell:+17155302104>(715)530-2104</a> <br> Email: <a href=mailto:anthony@anthonysguitars.com>anthony@anthonysguitars.com</a>"
     section: contact
     
   footer:
