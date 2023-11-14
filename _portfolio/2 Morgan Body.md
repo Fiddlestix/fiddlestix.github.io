@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Ash Body T-Style
+  title: T-Style Body
   subtitle: For Morgan Music
   thumbnail: "assets/img/portfolio/morgan.jpg"
   
