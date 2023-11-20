@@ -56,8 +56,13 @@ en: &DEFAULT_EN
         desc: "I will try to ship your guitar within 3 weeks of your order. But if you want your tone knobs from Timbuktu it might take a little longer, (I will do my best to communicate that ahead of time).<br>If it's delayed longer than I said I will give you 5% off."
         image: assets/img/op/sanding.jpg
         alt:
+      - title: I add my signature <br/> "Barre A" brand
+        year: "Step 5"
+        desc: "As a finishing touch I hot brand the back of the guitar to make it truely one of a kind."
+        image: assets/img/op/barrea.jpg
+        alt:
         # you can enforce the alignment
-        align: right
+        # align: right
     end: "Play <br> Your Heart <br> Out!"
     
   
@@ -76,16 +81,16 @@ en: &DEFAULT_EN
         image: "assets/img/portfolio/anthonyt copy.jpg"
       - title: "Signature Series $$"
         desc: "This is the option I would recomend for musicians who want a high quality, playable, affordable, custom guitar. I take your choice of brand new parts and make a guitar with a highly personalized body. And just like the personal series, I will work with you to put your money exactly where you want it, so that you can make every penny count."
-        image: "assets/img/op/tractorp.jpg"
+        image: "assets/img/tractorp.jpg"
       - title: "Touring Series $$$"
         desc: "This is my premium line, for professional musicians who want a top of the line personal instrument. I can go as in depth as you want to get the perfect instrument for stage or studio."
-        image: "assets/img/op/ga.jpg"
+        image: "assets/img/ga.jpg"
       - title: "Custom Bodies $"
         desc: "Want to build your own guitar? I can sell you just the highly personalized custom body. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
         image: "../assets/img/morgan.jpg"
       - title: "Other Ideas? $-$$$"
         desc: "Have something totally different that you want to try? Let us know and I’d love to see what I can do for you!"
-        image: "../assets/img/op/tractortele.jpg"
+        image: "../assets/img/tractortele.jpg"
 
   portfolio:
     title: "Past Builds"

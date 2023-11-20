@@ -6,7 +6,7 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: Cowgirl P-Bass
-subtitle: My sister and I built this so she could learn bass guitar.
+subtitle: My sister and I built this so she could learn to play bass guitar.
 image: "assets/img/portfolio/pbass.jpg" #main image, can be a link or a file in assets/img/portfolio
 alt: Unable to Load Picture :(
 
