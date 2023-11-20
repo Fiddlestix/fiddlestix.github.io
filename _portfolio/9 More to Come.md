@@ -6,7 +6,9 @@ caption: #what displays in the portfolio grid:
   
 #what displays when the item is clicked:
 title: More coming soon...
-subtitle: Your guitar could be here, just give me a call or shoot me an email.
+subtitle: Your guitar could be here, just give me a call or shoot me an email. 
+# link: Contact
+# linkref: contact
 image: "assets/img/portfolio/anthonyt copy.jpg" #main image, can be a link or a file in assets/img/portfolio
 alt: Unable to Load Picture :(
 ---
