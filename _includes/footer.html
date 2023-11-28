@@ -14,7 +14,7 @@
           <li class="list-inline-item">
             {% if link.url %}
             <a href="{{ link.url }}">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+              {% if link.image %}<img class="rounded-circle img-fluid align-items-top" src="{{ link.image }}"></img>{% endif %}
             </a>
             {% endif %}
           </li>
