@@ -12,14 +12,14 @@ header.masthead {
     padding-top: 300px;
     padding-bottom: 200px;
     .intro-lead-in {
-      font-size: 4em;
+      font-size: 3em;
       font-style: Normal;
       line-height: 40px;
       margin-bottom: 25px;
       @include serif-font;
     }
     .intro-continue {
-      font-size: 2em;
+      font-size: 1.5em;
       font-style: italic;
       line-height: 40px;
       margin-bottom: 25px;
@@ -40,5 +40,19 @@ header.masthead {
   header.masthead {
     background-image: url("#{$header-image}");
     background-position: 15% 25%;
+    .intro-text {
+      .intro-lead-in {
+        font-size: 4em;
+      
+      }
+      .intro-continue {
+        font-size: 2em;
+      
+      }
+      .intro-heading {
+        font-size: 1.25em;
+      
+      }
+    }
   }
 }
