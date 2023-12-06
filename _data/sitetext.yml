@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         alt:
       - title: I add my signature <br/> "Barre A" brand
         year: "Step 5"
-        desc: "As a finishing touch I hot brand the back of the guitar to make it truely one of a kind."
+        desc: "As a finishing touch I hot brand the back of the guitar to make it truly one of a kind."
         image: assets/img/op/barrea.jpg
         alt:
         # you can enforce the alignment
