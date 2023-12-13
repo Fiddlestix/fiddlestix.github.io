@@ -107,17 +107,14 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://www.facebook.com/profile.php?id=61554171655996
-        image: "../assets/img/fb.png"
-  #     - url: https://twitter.com
-  #       icon: "fab fa-twitter"
-  #     - url: https://linkedin.com
-  #       icon: "fab fa-linkedin-in"
-  #     - url: https://github.com/raviriley/agency-jekyll-theme
-  #       icon: "fab fa-github"
-  #     - url: https://instagram.com
-  #       icon: "fab fa-instagram" 
-  
-  # Don't Delete
+        image: "../assets/img/social/fb.png"
+      - url: https://www.instagram.com/anthonydonovanguitars/
+        image: "../assets/img/social/insta.png" 
+      # - url: https://www.youtube.com/@AnthonyDonovanguitars
+      #   image: "../assets/img/social/yt.png"
+      - url: https://twitter.com/AnthonyDononvan
+        image: "../assets/img/social/x.png"  
+  # Don't Delete 
 en-US:
   <<: *DEFAULT_EN
   
