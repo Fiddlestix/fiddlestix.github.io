@@ -110,8 +110,8 @@ en: &DEFAULT_EN
         image: "../assets/img/social/fb.png"
       - url: https://www.instagram.com/anthonydonovanguitars/
         image: "../assets/img/social/insta.png" 
-      # - url: https://www.youtube.com/@AnthonyDonovanguitars
-      #   image: "../assets/img/social/yt.png"
+      - url: https://www.youtube.com/@AnthonyDonovanguitars
+        image: "../assets/img/social/yt.png"
       - url: https://twitter.com/AnthonyDononvan
         image: "../assets/img/social/x.png"  
   # Don't Delete 
