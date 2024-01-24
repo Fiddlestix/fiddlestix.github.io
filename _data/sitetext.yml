@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     text: "Howdy, I'm Anthony Donovan"
     body: 
     image: "../assets/img/hi.jpg"
-    desc: I’ve been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to give other musicians a chance to own an affordable custom instrument.
+    desc: I’ve been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to give other musicians a chance to own their own custom instrument.
   
   
 
@@ -53,7 +53,7 @@ en: &DEFAULT_EN
         alt: 
       - title: "I Make and Assemble Your Instrument"
         year: "Step 4"
-        desc: "I will try to ship your guitar within 3 weeks of your order. But if you want your tone knobs from Timbuktu it might take a little longer, (I will do my best to communicate that ahead of time).<br>If it's delayed longer than I said I will give you 5% off."
+        desc: "I will try to ship your guitar within 4-8 weeks of your order. But if you want your tone knobs from Timbuktu it might take a little longer, (I will do my best to communicate that ahead of time).<br>If it's delayed longer than I said I will give you 5% off."
         image: assets/img/op/sanding.jpg
         alt:
       - title: I add my signature <br/> "Barre A" brand
