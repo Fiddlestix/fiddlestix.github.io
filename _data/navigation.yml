@@ -13,8 +13,8 @@ en: &DEFAULT_EN
       section: timeline
     # - title: "Team"
       # section: team
-    - title: "Series"
-      section: services
+    # - title: "Series"
+      # section: services
     - title: "Past Builds"
       section: portfolio
     - title: "Contact"
