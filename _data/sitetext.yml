@@ -26,7 +26,20 @@ en: &DEFAULT_EN
     image: "../assets/img/hi.jpg"
     desc: I’ve been fascinated with music ever since I was a little kid. The idea of custom guitar bodies came from when my uncle and I decided to build my dream guitar, a tele, with his CNC machine. The project was a success and I realized it was something I really liked doing. So I decided to start Anthony Donovan Guitars to give other musicians a chance to own their own custom instrument.
   
-  
+  services:
+    title: "Services"
+    text: "Here are the services I provide"
+    section: services
+    list:
+      - title: "Custom Electric Guitars"
+        desc: "Want a truly unique instrument that will make you stand out wherever you play? I can make you high quality custom electric guitar, personalized to exactly how you want it."
+        image: "assets/img/ga.jpg"
+      - title: "Custom Bodies"
+        desc: "Want to build your own guitar? I can sell you just the highly personalized custom body. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
+        image: "../assets/img/morgan.jpg"
+      - title: "Setup and Basic Repair"
+        desc: "I can do setup and simple repair projects for acoustic and electric guitars. Also I can customize your current guitar to make it exactly how you want it without you having to buy a whole new instrument."
+        image: "../assets/img/bh.jpg"
 
 
   timeline:
@@ -71,27 +84,7 @@ en: &DEFAULT_EN
     ptitle: Terms of Sale
     closebutton: "Close"
   
-  services:
-    title: "Series"
-    text: "Here is a rough idea of the different levels/prices that you have for options"
-    section: services
-    list:
-      - title: "Personal Series $"
-        desc: "This is my basic option, for musicians who want a very affordable custom guitar. I'll put a personalized body with some parts off a used guitar to make an affordable guitar with a personalized look. This series is all about budget so I will work with you to only put money into the parts that matter to you."
-        image: "assets/img/portfolio/anthonyt copy.jpg"
-      - title: "Signature Series $$"
-        desc: "This is the option I would recomend for musicians who want a high quality, playable, affordable, custom guitar. I take your choice of brand new parts and make a guitar with a highly personalized body. And just like the personal series, I will work with you to put your money exactly where you want it, so that you can make every penny count."
-        image: "assets/img/tractorp.jpg"
-      - title: "Touring Series $$$"
-        desc: "This is my premium line, for professional musicians who want a top of the line personal instrument. I can go as in depth as you want to get the perfect instrument for stage or studio."
-        image: "assets/img/ga.jpg"
-      - title: "Custom Bodies $"
-        desc: "Want to build your own guitar? I can sell you just the highly personalized custom body. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
-        image: "../assets/img/morgan.jpg"
-      - title: "Other Ideas? $-$$$"
-        desc: "Have something totally different that you want to try? Let us know and I’d love to see what I can do for you!"
-        image: "../assets/img/tractortele.jpg"
-
+  
   portfolio:
     title: "Past Builds"
     text: "Here are some examples of guitars I've made."
