@@ -57,11 +57,11 @@ en: &DEFAULT_EN
       - title: "I'll Draft a Design"
         year: "Step 2"
         desc: "I won't move on with production until the draft looks just how you want it. Want just the body? just skip step 3."
-        image: assets/img/op/design.jpg
+        image: assets/img/op/design2.png
         alt:
-      - title: "Choose Neck, Pickups, and Accessories"
+      - title: "Choose Pickups and Accessories"
         year: "Step 3"
-        desc: "This can be as involved, (or not), as you want. Do you want a top end neck with specific pickups? Or just something cheap that will get the job done, I’ll work with whatever you want."
+        desc: "This can be as involved, (or not), as you want. Do you want a top end hand inlaid neck with specific pickups? Or just something cheap that will get the job done, I’ll work with whatever you want."
         image: assets/img/op/gb.jpg
         alt: 
       - title: "I Make and Assemble Your Instrument"
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
         image: "../assets/img/social/insta.png" 
       - url: https://www.youtube.com/@AnthonyDonovanguitars
         image: "../assets/img/social/yt.png"
-      - url: https://twitter.com/AnthonyDononvan
+      - url: https://x.com/ADGuitars
         image: "../assets/img/social/x.png"  
   # Don't Delete 
 en-US:
