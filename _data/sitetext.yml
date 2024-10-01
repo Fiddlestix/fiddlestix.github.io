@@ -11,8 +11,8 @@
 en: &DEFAULT_EN
   header:
     title: Anthony Donovan Guitars
-    titleB: Personalized Guitars at an Affordable Price
-    text: I make electric guitars custom tailored to individual musicians.<br>I'll work with any budget to make sure you get the guitar you've always wanted. I can also make just the body if you want to do your own build.
+    titleB: Custom Electric Guitars for Individual Musicians.
+    text: I'll work with any budget to make sure you get the guitar you've always wanted. I can also make just the body and/or neck if you want to do your own build.
     textps: 
     button: Learn More
     buttonlink: "#about"
@@ -33,12 +33,12 @@ en: &DEFAULT_EN
     list:
       - title: "Custom Electric Guitars"
         desc: "Want a truly unique instrument that will make you stand out wherever you play? I can make you high quality custom electric guitar, personalized to exactly how you want it."
-        image: "assets/img/ga.jpg"
+        image: "assets/img/jht2.jpg"
       - title: "Custom Bodies"
         desc: "Want to build your own guitar? I can sell you just the highly personalized custom body. Also I can help you source all the other parts you need so that you can have an amazing custom guitar that was made by you."
         image: "../assets/img/morgan.jpg"
-      - title: "Setup and Basic Repair"
-        desc: "I can do setup and simple repair projects for acoustic and electric guitars. Also I can customize your current guitar to make it exactly how you want it without you having to buy a whole new instrument."
+      - title: "Setup and Repair"
+        desc: "I can do setup and repair projects for acoustic and electric guitars. Also I can customize your current guitar to make it exactly how you want it without you having to buy a whole new instrument."
         image: "../assets/img/bh.jpg"
 
 
