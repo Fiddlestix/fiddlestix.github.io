@@ -16,4 +16,4 @@ Made out of White Ash from a local Amish sawmill.
 
 {:.list-inline} 
 - Made: September 2023 
-- Owner: <a href="https://www.morganmusiconline.com/"> Morgan Music  </a>
+- Owner: <a href="https://www.morganmusiconline.com/" target="_blank" rel="noopener noreferrer"> Morgan Music  </a>
